@@ -1,0 +1,16 @@
+{
+    "background_color": "gray",
+    "description": "U-Park",
+    "display": "fullscreen",
+    "icons": [
+      {
+        "src": "img/icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ],
+    "name": "U-Park",
+    "short_name": "U-Park",
+    "start_url": "/compte_favoris/pas_connecte.php"
+  }
+  
